@@ -1,0 +1,13 @@
+Source: pardus-kde-icon-theme
+Section: kde
+Priority: extra
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+Homepage: http://pardus.org.tr
+
+Package: pardus-kde-icon-theme
+Architecture: all
+Depends: ${misc:Depends}
+Description: Pardus KDE Icon Theme for Pardus KDE
+ Pardus kde icon theme package has forked from Flat Remix.
