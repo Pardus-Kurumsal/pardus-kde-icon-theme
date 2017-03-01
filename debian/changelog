@@ -1,3 +1,9 @@
+pardus-kde-icon-theme (0.2) pardus; urgency=medium
+
+  * Attempt to fix update icon visiblity
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 01 Mar 2017 10:40:32 +0300
+
 pardus-kde-icon-theme (0.1) pardus; urgency=medium
 
   * Initial release.
