@@ -1,3 +1,9 @@
+pardus-kde-icon-theme (0.3) pardus; urgency=medium
+
+  * Change branding related icons
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 08 Mar 2017 11:03:58 +0300
+
 pardus-kde-icon-theme (0.2) pardus; urgency=medium
 
   * Attempt to fix update icon visiblity
